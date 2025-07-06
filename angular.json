@@ -104,7 +104,13 @@
             ]
           }
         }
+      },
+      "i18n": {
+        "sourceLocale": "pt-BR"
       }
     }
+  },
+  "cli": {
+    "analytics": false
   }
 }
